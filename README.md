@@ -28,7 +28,7 @@ This system represents a complete IoT solution for agricultural soil surveying, 
 |-----------|------------|---------|---------|
 | **Main Controller** | Arduino Uno R4 WiFi | System coordination, web server | ✅ Complete |
 | **NPK Analyzer** | Arduino Uno R3 + RS485 | Nutrient analysis | ✅ Complete |
-| **Motor Control** | Servo/Stepper System | Soil penetration | 🔧 In Development |
+| **Motor Control** | Linear Actuator Motor System | Soil penetration | 🔧 In Development |
 | **Web Interface** | HTTP Server | Remote operation | ✅ Complete |
 | **Desktop GUI** | Python Tkinter | Field control station | ✅ Complete |
 
@@ -226,17 +226,6 @@ int sampleInterval = 1000;  // 1-second sample rate
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Professional Contact
-
-This project represents production-ready agricultural robotics technology suitable for:
-- **Commercial licensing**
-- **Research collaboration** 
-- **Academic partnerships**
-- **Technology transfer opportunities**
-
-For professional inquiries regarding this technology, please contact through the repository's issue system.
-
----
 
 **🌱 Advancing Precision Agriculture Through Intelligent Automation** 🚜
 
