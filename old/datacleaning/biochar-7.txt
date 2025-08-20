@@ -1,0 +1,193 @@
+Moisture: 0.00%
+Humidity: 48.20%
+Temperature: 36.00
+Nitrogen: 255 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 0.00%
+Humidity: 48.20%
+Temperature: 36.00
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 0.00%
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.20%
+Temperature: 37.00
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.20%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.20%
+Temperature: 37.00
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.20%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.20%
+Temperature: 37.00
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.20%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.20%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.50%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 100.00%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 99.24%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 98.94%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 98.79%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 97.73%
+Humidity: 48.30%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 97.12%
+Humidity: 48.20%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 97.27%
+Humidity: 48.20%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 86.21%
+Humidity: 48.50%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 96.67%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 96.36%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 95.61%
+Humidity: 48.70%
+Temperature: 37.00200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 95.61%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Moisture: 96.21%
+Humidity: 48.70%
+Temperature: 37.0013200B844
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
+Nitrogen: 0 mg/kg
+Phosphorous: 0 mg/kg
+Potassium: 0 mg/kg
